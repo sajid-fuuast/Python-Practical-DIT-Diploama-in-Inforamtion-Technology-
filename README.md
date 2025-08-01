@@ -34,50 +34,30 @@ p11w.py Write a script to print factorial of the given number (while).
 p11f.py Write a script to print factorial of the given number (for loop).
 [Watch Tutorial](https://youtu.be/9y40h7I8lvU)
 
-p7.py 
-[Watch Tutorial]()
+p12w.py rite a script to calculate the sum of all numbers from 1 to a given number (while,).
+[Watch Tutorial](https://youtu.be/z88ajrCStC4)
 
-p7.py 
-[Watch Tutorial]()
+p12f.py Write a script to calculate the sum of all numbers from 1 to a given number ( for).
+[Watch Tutorial](https://youtu.be/-Mg75VIF4r4)
 
-p7.py 
-[Watch Tutorial]()
+p13.py Write a program to print multiplication table of a given number (while)
+[Watch Tutorial](https://youtu.be/CQ1XXVsfvww)
 
-p7.py 
-[Watch Tutorial]()
+p13f.py Write a program to print multiplication table of a given number ( for)
+[Watch Tutorial](https://youtu.be/RXijWL0Sfno)
 
-p7.py 
-[Watch Tutorial]()
+p14.py Write a script to print the list in reverse order
+[Watch Tutorial](https://youtu.be/nna9B-VwCg8)
 
-p7.py 
-[Watch Tutorial]()
+p15.py Write a script that takes five fruits name from the user and store it in a list. Display the list elements using for loop.
+[Watch Tutorial](https://youtu.be/a8nt3Z9Ufx0)
 
-p7.py 
-[Watch Tutorial]()
+p16.py Write a script to turn every item of a list into its square. (numberList= [2,4,6,6,10])
+[Watch Tutorial](https://youtu.be/X_9utgM-ARg)
 
-p7.py 
-[Watch Tutorial]()
+p17.py Write a script that copy all the elements of the given list and append it to new list name updatedList.list = [‘Mango’, ‘Apple’,’Banana,’Melon’,’Grapes’]
+[Watch Tutorial](https://youtu.be/plj1kiUq3JY)
 
-p7.py 
-[Watch Tutorial]()
-
-p7.py 
-[Watch Tutorial]()
-
-p7.py 
-[Watch Tutorial]()
-
-p7.py 
-[Watch Tutorial]()
-
-p7.py 
-[Watch Tutorial]()
-
-p7.py 
-[Watch Tutorial]()
-
-p7.py 
-[Watch Tutorial]()
 
 p7.py 
 [Watch Tutorial]()
